@@ -4,4 +4,4 @@ pdf2image
 Pillow
 doctr
 tf2onnx
-# Add any other dependencies you might have
+tensorflow
